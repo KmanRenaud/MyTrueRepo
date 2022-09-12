@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\bin\Debug\net6.0\VariablesWithTrueCoders.exe
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\bin\Debug\net6.0\VariablesWithTrueCoders.deps.json
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\bin\Debug\net6.0\VariablesWithTrueCoders.runtimeconfig.json
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\bin\Debug\net6.0\VariablesWithTrueCoders.dll
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\bin\Debug\net6.0\VariablesWithTrueCoders.pdb
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.AssemblyInfo.cs
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.dll
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\refint\VariablesWithTrueCoders.dll
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.pdb
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\VariablesWithTrueCoders.genruntimeconfig.cache
+C:\Users\One\Desktop\KaelsMainRepo\VariablesWithTrueCoders\VariablesWithTrueCoders\obj\Debug\net6.0\ref\VariablesWithTrueCoders.dll
