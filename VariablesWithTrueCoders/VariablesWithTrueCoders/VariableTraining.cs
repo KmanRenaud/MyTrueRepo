@@ -1,16 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
+
 char letterA = 'a';
 double myMoney = 300.53;
 decimal physicsVectorPrecise = 0.3332372742m;
 bool randBool = true;
 //just some goofy stuff
+
+
 Console.WriteLine("Do you have a dog? ");
 
 string havePet;
 havePet = Convert.ToString(Console.ReadLine());
 
 bool dogStatus;
+//setup for having a dog
 while (true)
 {
     if (havePet == "Yes" || havePet == "yes")
@@ -29,6 +34,7 @@ while (true)
         havePet = Convert.ToString(Console.ReadLine());
     }
 }
+//just fixing incorect 
 
 int petAge;
 petAge = 2;
@@ -103,3 +109,8 @@ if (yesRand == true) ;
 {
     Console.WriteLine($"Random stuff in three, two, one....                       LET IT BEGIN!!! {letterA}, {randBool}, {physicsVectorPrecise}, {myMoney}");
 }
+
+
+
+
+

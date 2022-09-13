@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\VariablesWithTrueCoders\\VariablesWithTrueCoders\\VariablesWithTrueCoders.csproj": {}
+    "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\Methods\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\VariablesWithTrueCoders\\VariablesWithTrueCoders\\VariablesWithTrueCoders.csproj": {
+    "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\Methods\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\VariablesWithTrueCoders\\VariablesWithTrueCoders\\VariablesWithTrueCoders.csproj",
-        "projectName": "VariablesWithTrueCoders",
-        "projectPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\VariablesWithTrueCoders\\VariablesWithTrueCoders\\VariablesWithTrueCoders.csproj",
+        "projectUniqueName": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\Methods\\Methods\\Methods.csproj",
+        "projectName": "Methods",
+        "projectPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\Methods\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\One\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\VariablesWithTrueCoders\\VariablesWithTrueCoders\\obj\\",
+        "outputPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\Methods\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\One\\AppData\\Roaming\\NuGet\\NuGet.Config",
