@@ -43,7 +43,7 @@ class CallMethod
             dBy /= divs[x];
 
         }
-        Console.WriteLine($"The leftover of all of the numbers is {dBy}");
+        Console.WriteLine($"The leftover of all of the numbers is {Math.Round(dBy, 2)}");
     }
     static void Mod(List<double> mods)
     {
@@ -60,14 +60,16 @@ class CallMethod
         //first name
         Console.WriteLine("What is your first name? (click enter to skip...)");
         string firstName = Console.ReadLine();
-
+        Console.WriteLine("--------------------------------------------------");
         //middle name
         Console.WriteLine("What is your middle name? (click enter to skip...)");
         string middleName = Console.ReadLine();
-
+        Console.WriteLine("--------------------------------------------------");
         //last name
         Console.WriteLine("What is you last name? (click enter to skip...)");
         string lastName = Console.ReadLine();
+        Console.WriteLine("--------------------------------------------------");
+        Console.Clear();
 
         //maths:)
         var list = new List<double>();
@@ -76,8 +78,10 @@ class CallMethod
             Console.WriteLine("Please enter a number: ");
             double theirNumArray = Convert.ToDouble(Console.ReadLine());  
             list.Add(theirNumArray);
+            Console.WriteLine("--------------------------------------------------");
             Console.WriteLine("Would you like to add more numbers? (type yes or no)");
             string userResponce = Console.ReadLine().ToLower();
+            Console.WriteLine("--------------------------------------------------");
             if (userResponce != "yes")
             {
                 break;
@@ -87,10 +91,17 @@ class CallMethod
 
         //calling the methods
         Console.WriteLine($"Hello {firstName} {middleName} {lastName}! The numbers you inputed will show below...");
+        Console.Write("Click enter to continue...");
+        string a = Console.ReadLine();
+        Console.Clear();
         CallMethod.Add(list);
+        Console.WriteLine("--------------------------------------------------");
         CallMethod.Sub(list);
+        Console.WriteLine("--------------------------------------------------");
         CallMethod.Mult(list);
+        Console.WriteLine("--------------------------------------------------");
         CallMethod.Div(list);
+        Console.WriteLine("--------------------------------------------------");
         CallMethod.Mod(list);
 
         //This is for if I was the division to be a double
