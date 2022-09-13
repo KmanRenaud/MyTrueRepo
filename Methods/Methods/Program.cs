@@ -6,9 +6,9 @@ using System.Reflection.PortableExecutable;
 class CallMethod
 {
     //making the methods
-    static void Add(List<int> adds)
+    static void Add(List<double> adds)
     {
-        int sum = 0; 
+        double sum = 0; 
 
         for (int i = 0; i < adds.Count; i++)
         {
@@ -17,27 +17,27 @@ class CallMethod
 
         Console.WriteLine($"The total of all of the numbers is {sum}");
     }
-    static void Sub(List<int> subs)
+    static void Sub(List<double> subs)
     {
-        int min = subs[0];
+        double min = subs[0];
         for (int x = 1; x < subs.Count; x ++)
         {
             min -= subs[x];
          }
         Console.WriteLine($"The subtraction of all the numbers is {min}");
     }
-    static void Mult(List<int> mults)
+    static void Mult(List<double> mults)
     {
-        int times = mults[0];
+        double times = mults[0];
         for (int x = 0; x < mults.Count; x ++)
         {
             times *= mults[x];
         }
         Console.WriteLine($"The numbers multiplied are {times / mults[0]}");
     }
-    static void Div(List<int> divs)
+    static void Div(List<double> divs)
     {
-        int dBy = divs[0];
+        double dBy = divs[0];
         for (int x = 1; x < divs.Count; x ++)
         {
             dBy /= divs[x];
@@ -45,9 +45,9 @@ class CallMethod
         }
         Console.WriteLine($"The leftover of all of the numbers is {dBy}");
     }
-    static void Mod(List<int> mods)
+    static void Mod(List<double> mods)
     {
-        int rem = mods[0];
+        double rem = mods[0];
         for (int x = 1; x < mods.Count; x ++)
         {
             rem %= mods[x];
@@ -70,11 +70,11 @@ class CallMethod
         string lastName = Console.ReadLine();
 
         //maths:)
-        var list = new List<int>();
+        var list = new List<double>();
         while (true)
         {
             Console.WriteLine("Please enter a number: ");
-            int theirNumArray = Convert.ToInt32(Console.ReadLine());  
+            double theirNumArray = Convert.ToDouble(Console.ReadLine());  
             list.Add(theirNumArray);
             Console.WriteLine("Would you like to add more numbers? (type yes or no)");
             string userResponce = Console.ReadLine().ToLower();
