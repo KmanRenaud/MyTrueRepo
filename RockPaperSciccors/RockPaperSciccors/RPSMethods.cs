@@ -75,9 +75,7 @@ namespace RockPaperSciccors
         {
             if (bestOutOfThree == true)
             {
-            rock = false;
-            paper = false;
-            scissors = false;
+
             int cpuWins = 0;
             int userWins = 0;
                 Random rand = new Random();
@@ -85,6 +83,9 @@ namespace RockPaperSciccors
                 {
                     while (true)
                     {
+                        rock = false;
+                        paper = false;
+                        scissors = false;
                         Console.WriteLine("########################");
                         Console.WriteLine("Rock, Paper, or Scissors");
                         Console.WriteLine("########################");
@@ -207,15 +208,16 @@ namespace RockPaperSciccors
         {
             if (endless == true)
             {
-                rock = false;
-                paper = false;
-                scissors = false;
+
                 bool end = false;
                 Random rand = new Random();
                 while (true)
                 {
                     while (true)
                     {
+                        rock = false;
+                        paper = false;
+                        scissors = false;
                         Console.WriteLine("########################");
                         Console.WriteLine("Rock, Paper, or Scissors");
                         Console.WriteLine("########################");

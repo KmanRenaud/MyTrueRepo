@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\RockPaperSciccors\\RockPaperSciccors\\RockPaperSciccors.csproj",
-      "projectName": "RockPaperSciccors",
-      "projectPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\RockPaperSciccors\\RockPaperSciccors\\RockPaperSciccors.csproj",
+      "projectUniqueName": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\RockPaperSciccors\\RockPaperSciccors\\RockPaperScissors.csproj",
+      "projectName": "RockPaperScissors",
+      "projectPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\RockPaperSciccors\\RockPaperSciccors\\RockPaperScissors.csproj",
       "packagesPath": "C:\\Users\\One\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\One\\Desktop\\KaelsMainRepo\\TrueRepo\\RockPaperSciccors\\RockPaperSciccors\\obj\\",
       "projectStyle": "PackageReference",
