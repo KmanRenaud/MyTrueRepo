@@ -198,6 +198,10 @@ namespace RockPaperSciccors
                     else if (userWins == 3)
                     {
                         Console.WriteLine("Yay!!! YOU WON!");
+                        Console.WriteLine("Enter anything to go back to the title screen");
+                        Console.ReadLine();
+                        Console.Clear();
+                        break;
                     }
                 }
             }
