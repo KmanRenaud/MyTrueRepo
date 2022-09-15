@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\bin\Debug\net6.0\ClearCode.exe
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\bin\Debug\net6.0\ClearCode.deps.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\bin\Debug\net6.0\ClearCode.runtimeconfig.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\bin\Debug\net6.0\ClearCode.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\bin\Debug\net6.0\ClearCode.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.AssemblyInfo.cs
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\refint\ClearCode.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ClearCode.genruntimeconfig.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\ClearCode\ClearCode\obj\Debug\net6.0\ref\ClearCode.dll

@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\bin\Debug\net6.0\RockPaperSciccors.exe
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\bin\Debug\net6.0\RockPaperSciccors.deps.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\bin\Debug\net6.0\RockPaperSciccors.runtimeconfig.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\bin\Debug\net6.0\RockPaperSciccors.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\bin\Debug\net6.0\RockPaperSciccors.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.AssemblyInfo.cs
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\refint\RockPaperSciccors.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\RockPaperSciccors.genruntimeconfig.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\RockPaperSciccors\RockPaperSciccors\obj\Debug\net6.0\ref\RockPaperSciccors.dll
