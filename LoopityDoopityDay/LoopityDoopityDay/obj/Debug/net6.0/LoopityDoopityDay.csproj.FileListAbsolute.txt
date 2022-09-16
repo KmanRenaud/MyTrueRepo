@@ -1,0 +1,5 @@
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\LoopityDoopityDay\LoopityDoopityDay\obj\Debug\net6.0\LoopityDoopityDay.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\LoopityDoopityDay\LoopityDoopityDay\obj\Debug\net6.0\LoopityDoopityDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\LoopityDoopityDay\LoopityDoopityDay\obj\Debug\net6.0\LoopityDoopityDay.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\LoopityDoopityDay\LoopityDoopityDay\obj\Debug\net6.0\LoopityDoopityDay.AssemblyInfo.cs
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\LoopityDoopityDay\LoopityDoopityDay\obj\Debug\net6.0\LoopityDoopityDay.csproj.CoreCompileInputs.cache
