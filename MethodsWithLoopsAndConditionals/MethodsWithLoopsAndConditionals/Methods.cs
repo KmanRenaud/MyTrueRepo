@@ -97,10 +97,9 @@ namespace MethodsWithLoopsAndConditionals
             for (int i = 1; i < 13; i++)
             {
 
-                i++;
                 table.Add(i);
             }
-            Console.WriteLine("The multiplicaton table for that number is: ")
+            Console.WriteLine("The multiplicaton table for that number is: ");
             for (int i = 0; i < 12; i++)
             {
                 Console.WriteLine($"{table[i] * num}, ");
