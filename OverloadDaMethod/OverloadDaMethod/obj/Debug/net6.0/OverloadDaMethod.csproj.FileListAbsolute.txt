@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\bin\Debug\net6.0\OverloadDaMethod.exe
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\bin\Debug\net6.0\OverloadDaMethod.deps.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\bin\Debug\net6.0\OverloadDaMethod.runtimeconfig.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\bin\Debug\net6.0\OverloadDaMethod.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\bin\Debug\net6.0\OverloadDaMethod.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.AssemblyInfo.cs
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\refint\OverloadDaMethod.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\OverloadDaMethod.genruntimeconfig.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\OverloadDaMethod\OverloadDaMethod\obj\Debug\net6.0\ref\OverloadDaMethod.dll
