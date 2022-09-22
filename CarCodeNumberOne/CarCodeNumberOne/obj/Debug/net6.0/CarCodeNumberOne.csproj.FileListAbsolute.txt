@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\bin\Debug\net6.0\CarCodeNumberOne.exe
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\bin\Debug\net6.0\CarCodeNumberOne.deps.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\bin\Debug\net6.0\CarCodeNumberOne.runtimeconfig.json
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\bin\Debug\net6.0\CarCodeNumberOne.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\bin\Debug\net6.0\CarCodeNumberOne.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.AssemblyInfo.cs
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\refint\CarCodeNumberOne.dll
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.pdb
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\CarCodeNumberOne.genruntimeconfig.cache
+C:\Users\One\Desktop\KaelsMainRepo\TrueRepo\CarCodeNumberOne\CarCodeNumberOne\obj\Debug\net6.0\ref\CarCodeNumberOne.dll
