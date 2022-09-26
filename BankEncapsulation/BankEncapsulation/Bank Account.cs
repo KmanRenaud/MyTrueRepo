@@ -10,14 +10,14 @@ namespace BankEncapsulation
     {
 
 
-        public static double balance = 0;
+        public double balance = 0;
 
-        public static double Deposit(double depMoney)
+        public double Deposit(double depMoney)
         {
             return balance += depMoney;
         }
 
-        public static double Withdrawal(double witMoney)
+        public double Withdrawal(double witMoney)
         {
             if ((balance - witMoney) < 0)
             {
@@ -31,7 +31,7 @@ namespace BankEncapsulation
         }
 
 
-        public static void GetBalance()
+        public void GetBalance()
         {
             Console.WriteLine(balance);
         }
