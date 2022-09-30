@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\bin\Debug\net6.0\LINQProj.exe
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\bin\Debug\net6.0\LINQProj.deps.json
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\bin\Debug\net6.0\LINQProj.runtimeconfig.json
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\bin\Debug\net6.0\LINQProj.dll
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\bin\Debug\net6.0\LINQProj.pdb
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.AssemblyInfo.cs
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.dll
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\refint\LINQProj.dll
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.pdb
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\LINQProj.genruntimeconfig.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\LINQProj\LINQProj\obj\Debug\net6.0\ref\LINQProj.dll
