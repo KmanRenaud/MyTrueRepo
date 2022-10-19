@@ -1,0 +1,15 @@
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\bin\Debug\net6.0\Codewars.exe
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\bin\Debug\net6.0\Codewars.deps.json
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\bin\Debug\net6.0\Codewars.runtimeconfig.json
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\bin\Debug\net6.0\Codewars.dll
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\bin\Debug\net6.0\Codewars.pdb
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.csproj.AssemblyReference.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.AssemblyInfoInputs.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.AssemblyInfo.cs
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.csproj.CoreCompileInputs.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.dll
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\refint\Codewars.dll
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.pdb
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\Codewars.genruntimeconfig.cache
+C:\Users\One\Desktop\TrueCodersFolder\KaelsMainRepo\TrueRepo\Codewars\Codewars\obj\Debug\net6.0\ref\Codewars.dll
